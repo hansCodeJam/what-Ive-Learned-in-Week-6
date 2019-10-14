@@ -23,3 +23,4 @@ Application programming interface (API) - Code that is designed to be used by co
  ```
 
  - Create a calculotar
+ - Dry - Don't repeat yourself
